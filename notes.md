@@ -9,3 +9,9 @@
 * Resource loaded with transferable (with service worker?)
 * Service worker story? 
 * Service worker scheduling?
+
+
+Meta
+* Web worker benchmarking
+* Serialization benchmarking over worker
+* Serialization over Transferables?
